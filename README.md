@@ -1,2 +1,2 @@
 ### dockerfile build
-`docker build -t xbf/hello-nginx .`
+`docker build -t image_name .`
